@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 64a72299-b882-0d12-2bc1-4f4f26c0676f
 resourcetype: Document
 title: Building list and bibliography notes
 uid: 97293551-801e-164f-4dbd-820643600c29

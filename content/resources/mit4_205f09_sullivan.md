@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e0af328e-4891-9497-d7df-6710d4ad8c7a
 resourcetype: Document
 title: The Tall Office Building Artistically Considered
 uid: e9f665db-203b-f5ac-b2ce-44d91f75b66e
