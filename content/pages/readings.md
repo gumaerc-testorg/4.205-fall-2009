@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required and recommended books for
+  the course, and a detailed list of reading assignments by lecture topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -77,7 +79,7 @@ Louis Sullivan: Adler and Sullivan
 
 \[KF\] "Adler and Sullivan, the Auditorium and the High Rise, 1886-95." Chapter 2, pp. 51-56.
 
-Sullivan, Louis H., "The Tall Office Building Artistically Considered." _Lippincott Magazine_, 1896. ([PDF]({{< baseurl >}}/resources/mit4_205f09_sullivan))
+Sullivan, Louis H., "The Tall Office Building Artistically Considered." _Lippincott Magazine_, 1896. ({{% resource_link e9f665db-203b-f5ac-b2ce-44d91f75b66e "PDF" %}})
 
   
 

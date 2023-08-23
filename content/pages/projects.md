@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the final project of the course,
+  a list of building suggestions, and examples of student projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -45,25 +47,25 @@ ASSIGNMENT FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Building list and bibliography notes ([PDF]({{< baseurl >}}/resources/mit4_205f09_assn))
+Building list and bibliography notes ({{% resource_link 97293551-801e-164f-4dbd-820643600c29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Kaufmann Desert House" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 23.6MB](/ans7870/4/4.205/f09/projects/sw1.pdf))
+"Kaufmann Desert House" ([PDF - 23.6MB](/ans7870/4/4.205/f09/projects/sw1.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Taliesin West" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit4_205f09_sw2))
+"Taliesin West" ({{% resource_link e568a1c7-8fa6-bf2e-b259-771152724948 "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Victoria McAlmon House" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.7MB](/ans7870/4/4.205/f09/projects/sw3.pdf))
+"Victoria McAlmon House" ([PDF - 6.7MB](/ans7870/4/4.205/f09/projects/sw3.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
