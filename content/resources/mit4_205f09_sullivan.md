@@ -2,7 +2,7 @@
 content_type: resource
 description: 'An article provided for a reading assignment: Sullivan, Louis H., "The
   Tall Office Building Artistically Considered." Lippincott Magazine, 1896.'
-file: /courses/4-205-analysis-of-contemporary-architecture-fall-2009/e9f665db203bf5acb2ce44d91f75b66e_MIT4_205F09_Sullivan.pdf
+file: /ol-ocw-studio-app/courses/4-205-analysis-of-contemporary-architecture-fall-2009/e9f665db203bf5acb2ce44d91f75b66e_MIT4_205F09_Sullivan.pdf
 file_size: 152181
 file_type: application/pdf
 learning_resource_types:
