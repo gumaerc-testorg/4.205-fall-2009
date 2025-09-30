@@ -16,20 +16,20 @@ Required Books
 
 \[KF\] = Frampton, Kenneth. _Modern Architecture: A Critical History_. London, UK: Thames and Hudson, 1992. ISBN: 9780500202579.
 
-\[UC\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262030397) Conrads, Ulrich. [_Programs and Manifestoes on 20th-Century Architecture_](https://mitpress.mit.edu/9780262030397). Cambridge, MA: MIT Press, 1970. ISBN: 9780262030397.
+\[UC\] = {{% resource_link "62f8fbd9-14a2-4a5c-a522-823539dc3c3e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Conrads, Ulrich. {{% resource_link "62f8fbd9-14a2-4a5c-a522-823539dc3c3e" "_Programs and Manifestoes on 20th-Century Architecture_" %}}. Cambridge, MA: MIT Press, 1970. ISBN: 9780262030397.
 
 Recommended Books
 -----------------
 
 Le Corbusier. _Towards a New Architecture_. Architectural Press, 1946.
 
-\[RB\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262520584) Banham, Reyner. [_Theory and Design in the First Machine Age_](https://mitpress.mit.edu/9780262520584). Cambridge, MA: MIT Press, 1980. ISBN: 9780262520584.
+\[RB\] = {{% resource_link "4224fc98-61b0-4a28-8d21-7c0c9d43495c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Banham, Reyner. {{% resource_link "4224fc98-61b0-4a28-8d21-7c0c9d43495c" "_Theory and Design in the First Machine Age_" %}}. Cambridge, MA: MIT Press, 1980. ISBN: 9780262520584.
 
 Venturi, Robert. _Complexity and Contradiction in Architecture_. New York, NY: Museum of Modern Art, 1977. ISBN: 9780870702815.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262720069) Venturi, Robert, Denise Scott Brown, and Steven Izenour. [_Learning from Las Vegas_](https://mitpress.mit.edu/9780262720069). Cambridge, MA: MIT Press, 1977. ISBN: 9780262720069.
+{{% resource_link "fc598e24-0261-47e6-ad72-95c101858719" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Venturi, Robert, Denise Scott Brown, and Steven Izenour. {{% resource_link "fc598e24-0261-47e6-ad72-95c101858719" "_Learning from Las Vegas_" %}}. Cambridge, MA: MIT Press, 1977. ISBN: 9780262720069.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581882) Hays, Michael K. [_Architecture Theory Since 1968_](https://mitpress.mit.edu/9780262581882). Cambridge, MA: MIT Press, 2000. ISBN: 9780262581882.
+{{% resource_link "5513223a-00d8-4ec3-94a1-f04dead14881" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hays, Michael K. {{% resource_link "5513223a-00d8-4ec3-94a1-f04dead14881" "_Architecture Theory Since 1968_" %}}. Cambridge, MA: MIT Press, 2000. ISBN: 9780262581882.
 
 ———. _Oppositions Reader: Selected Readings from a Journal for Ideas and Criticism in Architecture, 1973-1984_. New York, NY: Princeton Architectural Press, 1998. ISBN: 9781568981536.
 
@@ -181,7 +181,7 @@ De Stijl and Schrader Schroder house
 
 Yve-Alain, Bois. "Mondrian and the Theory of Architecture." _Assemblage_ 4 (1987): 102-130.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262150330) Overy, Paul, and Lenneke Buller, "Interview with Truus Schroder." Pp. 42-103 in [_The Rietveld Schroder House_](https://mitpress.mit.edu/9780262150330). Cambridge, MA: MIT Press, 1988. ISBN: 9780262150330.
+{{% resource_link "19271887-db4b-41c8-8e0a-2c108d07dcbc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Overy, Paul, and Lenneke Buller, "Interview with Truus Schroder." Pp. 42-103 in {{% resource_link "19271887-db4b-41c8-8e0a-2c108d07dcbc" "_The Rietveld Schroder House_" %}}. Cambridge, MA: MIT Press, 1988. ISBN: 9780262150330.
 
 
 {{< tdclose >}}
@@ -207,7 +207,7 @@ Walter Gropius: Bauhaus and Harvard
 
 Gropius, Walter. "The Bauhaus: Crafts or Industry?" _Journal of Architectural Education_ 18, no. 2 (1963): 31-32.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262730471) Wingler, Hans Maria. Read pp. 136-137 in [_The Bauhaus: Weimar, Dessau, Berlin, Chicago_](https://mitpress.mit.edu/9780262730471). Cambridge, MA: MIT Press, ISBN: 9780262730471.
+{{% resource_link "2dc2c7b8-c25e-4ac7-b931-254fd9eff4b6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wingler, Hans Maria. Read pp. 136-137 in {{% resource_link "2dc2c7b8-c25e-4ac7-b931-254fd9eff4b6" "_The Bauhaus: Weimar, Dessau, Berlin, Chicago_" %}}. Cambridge, MA: MIT Press, ISBN: 9780262730471.
 
 ### Recommended
 
@@ -419,7 +419,7 @@ Monk, Anthony. "Pen Portraits." In _The Art and Architecture of Paul Rudolph_. N
 
 Merkel, Jayne. _Eero Saarinen_. London, UK: Phaidon Press, 2005, pp. 35-81. ISBN: 9780714842776.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262072083) Rohan, Timothy M. "The Dangers of Eclecticism: Paul Rudolph's Jewett Arts Center at Wellesley." In [_Anxious Modernisms: Experimentation in Postwar American Culture_](https://mitpress.mit.edu/9780262072083). Edited by Sarah Williams Goldhagen. Cambridge, MA: MIT Press, 2001, pp. 191-214. ISBN: 9780262072083.
+{{% resource_link "2539e1e0-ed22-45fa-8a52-14c523ec87da" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rohan, Timothy M. "The Dangers of Eclecticism: Paul Rudolph's Jewett Arts Center at Wellesley." In {{% resource_link "2539e1e0-ed22-45fa-8a52-14c523ec87da" "_Anxious Modernisms: Experimentation in Postwar American Culture_" %}}. Edited by Sarah Williams Goldhagen. Cambridge, MA: MIT Press, 2001, pp. 191-214. ISBN: 9780262072083.
 
 
 {{< tdclose >}}
@@ -439,17 +439,17 @@ Case-study house program
 
 \[AC\] Pp. 233-237
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692137) Smith, Elizabeth. "Introduction." In [_Blueprints for Modern Living: History and Legacy of the Case Study Houses_](https://mitpress.mit.edu/9780262692137). Cambridge, MA: MIT Press, 1999. ISBN: 9780262692137.
+{{% resource_link "5928c314-0657-4930-b124-eea70f3124ed" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Smith, Elizabeth. "Introduction." In {{% resource_link "5928c314-0657-4930-b124-eea70f3124ed" "_Blueprints for Modern Living: History and Legacy of the Case Study Houses_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 9780262692137.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692137) McCoy, Esther. "Art and Architecture: Case Study Houses." Pp. 15-39 in [_Blueprints for Modern Living: History and Legacy of the Case Study Houses_](https://mitpress.mit.edu/9780262692137). Edited by Elizabeth Smith. Cambridge, MA: MIT Press, 1999. ISBN: 9780262692137.
+{{% resource_link "5928c314-0657-4930-b124-eea70f3124ed" "![Buy at MIT Press](/images/mp_logo.gif)" %}} McCoy, Esther. "Art and Architecture: Case Study Houses." Pp. 15-39 in {{% resource_link "5928c314-0657-4930-b124-eea70f3124ed" "_Blueprints for Modern Living: History and Legacy of the Case Study Houses_" %}}. Edited by Elizabeth Smith. Cambridge, MA: MIT Press, 1999. ISBN: 9780262692137.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692137) Hayden, Dolores. "Model Houses for the Millions." Pp. 197-209 in [_Blueprints for Modern Living: History and Legacy of the Case Study Houses_](https://mitpress.mit.edu/9780262692137). Edited by Elizabeth Smith. Cambridge, MA: MIT Press, 1999. ISBN: 9780262692137.
+{{% resource_link "5928c314-0657-4930-b124-eea70f3124ed" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hayden, Dolores. "Model Houses for the Millions." Pp. 197-209 in {{% resource_link "5928c314-0657-4930-b124-eea70f3124ed" "_Blueprints for Modern Living: History and Legacy of the Case Study Houses_" %}}. Edited by Elizabeth Smith. Cambridge, MA: MIT Press, 1999. ISBN: 9780262692137.
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692137) Smith, Elizabeth. "Art and Architecture and the Los Angeles Vanguard." Pp. 145-165 in [_Blueprints for Modern Living: History and Legacy of the Case Study Houses_](https://mitpress.mit.edu/9780262692137). Cambridge, MA: MIT Press, 1999. ISBN: 9780262692137.
+{{% resource_link "5928c314-0657-4930-b124-eea70f3124ed" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Smith, Elizabeth. "Art and Architecture and the Los Angeles Vanguard." Pp. 145-165 in {{% resource_link "5928c314-0657-4930-b124-eea70f3124ed" "_Blueprints for Modern Living: History and Legacy of the Case Study Houses_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 9780262692137.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262571654) Isenstadt, Sandy. "Richard Neutra and the Psychology of Architectural Consumption." Pp. 97-117 in [_Anxious Modernisms: Experimentations in Postwar American Culture_](https://mitpress.mit.edu/9780262571654). Edited by Sarah Williams Goldhagen. Cambridge, MA: MIT Press, 2002. ISBN: 9780262571654.
+{{% resource_link "5ddf7668-19ab-4713-80ee-93b7eecd9141" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Isenstadt, Sandy. "Richard Neutra and the Psychology of Architectural Consumption." Pp. 97-117 in {{% resource_link "5ddf7668-19ab-4713-80ee-93b7eecd9141" "_Anxious Modernisms: Experimentations in Postwar American Culture_" %}}. Edited by Sarah Williams Goldhagen. Cambridge, MA: MIT Press, 2002. ISBN: 9780262571654.
 
 
 {{< tdclose >}}
@@ -485,13 +485,13 @@ Urbanism CIAM and Team X
 
 \[UC\] "CIAM 1, La Sarraz Declaration." Pp.109-113
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262632638) Frampton, Kenneth. "Forward." In [_The CIAM Discourse on Urbanism, 1928-1960_](https://mitpress.mit.edu/9780262632638). By Eric Mumford. Cambridge, MA: MIT Press, 2002. ISBN: 9780262632638.
+{{% resource_link "2d5bc515-6055-4874-a65c-34dce2f80173" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Frampton, Kenneth. "Forward." In {{% resource_link "2d5bc515-6055-4874-a65c-34dce2f80173" "_The CIAM Discourse on Urbanism, 1928-1960_" %}}. By Eric Mumford. Cambridge, MA: MIT Press, 2002. ISBN: 9780262632638.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262632638) Mumford, Eric. "After CIAM." Pp. 267-274 in [_The CIAM Discourse on Urbanism, 1928-1960_](https://mitpress.mit.edu/9780262632638). By Eric Mumford. Cambridge, MA: MIT Press, 2002. ISBN: 9780262632638.
+{{% resource_link "2d5bc515-6055-4874-a65c-34dce2f80173" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mumford, Eric. "After CIAM." Pp. 267-274 in {{% resource_link "2d5bc515-6055-4874-a65c-34dce2f80173" "_The CIAM Discourse on Urbanism, 1928-1960_" %}}. By Eric Mumford. Cambridge, MA: MIT Press, 2002. ISBN: 9780262632638.
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262632638) Mumford, Eric. "CIAM 1," and "Team X and CIAM 10, Dubrovnik, 1956." Pp. 9-27 and 238-265 in [_The CIAM Discourse on Urbanism, 1928-1960_](https://mitpress.mit.edu/9780262632638). By Eric Mumford. Cambridge, MA: MIT Press, 2002. ISBN: 9780262632638.
+{{% resource_link "2d5bc515-6055-4874-a65c-34dce2f80173" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mumford, Eric. "CIAM 1," and "Team X and CIAM 10, Dubrovnik, 1956." Pp. 9-27 and 238-265 in {{% resource_link "2d5bc515-6055-4874-a65c-34dce2f80173" "_The CIAM Discourse on Urbanism, 1928-1960_" %}}. By Eric Mumford. Cambridge, MA: MIT Press, 2002. ISBN: 9780262632638.
 
 
 {{< tdclose >}}
@@ -557,7 +557,7 @@ Aldo Rossi and Carlo Scarpa
 
 Scully, Vincent. "The Ends of the Century Finds a Poet." Pp. 12-13 in _Aldo Rossi: Buildings and Projects_. New York, NY: Rizzoli, 1991. 12-13. ISBN: 9780847804993.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262680431) Rossi, Aldo. [_The Architecture of the City_](https://mitpress.mit.edu/9780262680431). Cambridge, MA: MIT Press, 1984. Pp. 13-27. ISBN: 9780262680431.
+{{% resource_link "5fa7984c-d84b-4ec5-8125-633607ac2c58" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rossi, Aldo. {{% resource_link "5fa7984c-d84b-4ec5-8125-633607ac2c58" "_The Architecture of the City_" %}}. Cambridge, MA: MIT Press, 1984. Pp. 13-27. ISBN: 9780262680431.
 
 Zambonini, Giuseppe. "Process and Theme in the Work of Carlo Scarpa." _Perspecta_ 20 (1983): 21-42.
 
@@ -589,7 +589,7 @@ Johnson, Philip. "Post Script." Pp. 137-138 in _Five Architects: Eisenman, Grave
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262680370) Rowe, Colin. "Transparency: Literal and Phenomenal." Pp. 159-182 in [_The Mathematics of the Ideal Villa and Other Essays_](https://mitpress.mit.edu/9780262680370). Cambridge, MA: MIT Press, 1982. ISBN: 9780262680370.
+{{% resource_link "a1a635a9-b052-432f-9532-f38e280eefc8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rowe, Colin. "Transparency: Literal and Phenomenal." Pp. 159-182 in {{% resource_link "a1a635a9-b052-432f-9532-f38e280eefc8" "_The Mathematics of the Ideal Villa and Other Essays_" %}}. Cambridge, MA: MIT Press, 1982. ISBN: 9780262680370.
 
 Rowe, Colin, and Robert Slutsky. "Transparency: Literal and Phenomenal, part 2." Pp. 205-225 in \[JO\].
 
@@ -617,7 +617,7 @@ Venturi, Robert. _Complexity and Contradiction in Architecture_. New York, NY: M
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262720069) Venturi, Robert, Denise Scott Brown and Steven Izenour. "Part II: Ugly and Ordinary Architecture, or the Decorated Shed." Pp. 87-163 in [_Learning from Las Vegas_](https://mitpress.mit.edu/9780262720069). Cambridge, MA: MIT Press, 1977. ISBN: 9780262720069.
+{{% resource_link "fc598e24-0261-47e6-ad72-95c101858719" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Venturi, Robert, Denise Scott Brown and Steven Izenour. "Part II: Ugly and Ordinary Architecture, or the Decorated Shed." Pp. 87-163 in {{% resource_link "fc598e24-0261-47e6-ad72-95c101858719" "_Learning from Las Vegas_" %}}. Cambridge, MA: MIT Press, 1977. ISBN: 9780262720069.
 
 
 {{< tdclose >}}
@@ -635,7 +635,7 @@ Deconstructivist architecture
 
 ### Required
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262731140) Wigley, Mark. [_The Architecture of Deconstruction: Derrida's Haunt_](https://mitpress.mit.edu/9780262731140). Cambridge, MA: MIT Press, 1995. ISBN: 9780262731140.
+{{% resource_link "72c99b06-f189-449e-8e42-f4de186e9f4d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wigley, Mark. {{% resource_link "72c99b06-f189-449e-8e42-f4de186e9f4d" "_The Architecture of Deconstruction: Derrida's Haunt_" %}}. Cambridge, MA: MIT Press, 1995. ISBN: 9780262731140.
 
 ———. "Postmortem Architecture: The Taste of Derrida." _Perspecta_ 23 (1987): 156-72.
 
